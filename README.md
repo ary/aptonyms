@@ -20,3 +20,5 @@ Pull requests are welcome 🙌
 - [Nathan Law](https://en.wikipedia.org/wiki/Nathan_Law), a Hong Kong legislator
 
 - [Marion Nestle](http://steinhardt.nyu.edu/faculty/Marion_Nestle), a professor of nutrition and food studies
+
+[Marion Nestle](http://steinhardt.nyu.edu/faculty/Marion_Nestle), a professor of nutrition and food studies and other things 
