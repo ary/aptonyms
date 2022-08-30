@@ -20,3 +20,5 @@ Pull requests are welcome 🙌
 - [Nathan Law](https://en.wikipedia.org/wiki/Nathan_Law), a Hong Kong legislator
 
 - [Marion Nestle](http://steinhardt.nyu.edu/faculty/Marion_Nestle), a professor of nutrition and food studies
+
+- [Charles Zuker](https://en.wikipedia.org/wiki/Charles_Zuker), a professor of biochemistry and pioneer of understanding the effects of sweet taste and sugar on humans
