@@ -22,3 +22,4 @@ Pull requests are welcome 🙌
 - [Marion Nestle](http://steinhardt.nyu.edu/faculty/Marion_Nestle), a professor of nutrition and food studies
 
 - [Charles Zuker](https://en.wikipedia.org/wiki/Charles_Zuker), a professor of biochemistry and pioneer of understanding the effects of sweet taste and sugar on humans
+- [Mission street](https://goo.gl/maps/BardrspFPwnwFhch7) and [Market street](https://goo.gl/maps/jUCeUemLWr7X77ep7) are some of the main streets in San Francisco.
