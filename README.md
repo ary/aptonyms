@@ -13,6 +13,8 @@ Pull requests are welcome 🙌
 
 - [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt), a Jamaican sprinter and current world record holder
 
+- [Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd), a professor of cognitive science studying knowledge acquisition in children
+
 - [Andrew Dugmore](http://www.ed.ac.uk/geosciences/people?indv=4), a professor of archaeology
 
 - [Mike Hookem](https://en.wikipedia.org/wiki/Mike_Hookem), a British politician [who punched a colleague](http://www.vox.com/world/2016/10/6/13189338/steven-woolfe-punched)
@@ -22,5 +24,3 @@ Pull requests are welcome 🙌
 - [Marion Nestle](http://steinhardt.nyu.edu/faculty/Marion_Nestle), a professor of nutrition and food studies
 
 - [Charles Zuker](https://en.wikipedia.org/wiki/Charles_Zuker), a professor of biochemistry and pioneer of understanding the effects of sweet taste and sugar on humans
-
-- [Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd), a professor of cognitive science studying knowledge acquisition in children
