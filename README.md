@@ -13,11 +13,11 @@ Pull requests are welcome 🙌
 
 - [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt), a Jamaican sprinter and current world record holder
 
-- [Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd), a professor of cognitive science studying knowledge acquisition in children
-
 - [Andrew Dugmore](http://www.ed.ac.uk/geosciences/people?indv=4), a professor of archaeology
 
 - [Mike Hookem](https://en.wikipedia.org/wiki/Mike_Hookem), a British politician [who punched a colleague](http://www.vox.com/world/2016/10/6/13189338/steven-woolfe-punched)
+
+- [Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd), a professor of cognitive science studying knowledge acquisition in children
 
 - [Nathan Law](https://en.wikipedia.org/wiki/Nathan_Law), a Hong Kong legislator
 
