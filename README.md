@@ -17,6 +17,8 @@ Pull requests are welcome 🙌
 
 - [Mike Hookem](https://en.wikipedia.org/wiki/Mike_Hookem), a British politician [who punched a colleague](http://www.vox.com/world/2016/10/6/13189338/steven-woolfe-punched)
 
+- [Celeste Kidd](https://psychology.berkeley.edu/people/celeste-kidd), a professor of cognitive science studying knowledge acquisition in children
+
 - [Nathan Law](https://en.wikipedia.org/wiki/Nathan_Law), a Hong Kong legislator
 
 - [Marion Nestle](http://steinhardt.nyu.edu/faculty/Marion_Nestle), a professor of nutrition and food studies
